@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll
+C:\Users\admin\source\repos\ExcelAddIn1\bin\Debug\ExcelAddIn1.pdb
+C:\Users\admin\source\repos\ExcelAddIn1\bin\Debug\ExcelAddIn1.dll.manifest
+C:\Users\admin\source\repos\ExcelAddIn1\bin\Debug\ExcelAddIn1.vsto
+C:\Users\admin\source\repos\ExcelAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\admin\source\repos\ExcelAddIn1\obj\Debug\GenExcel.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ExcelAddIn1\obj\Debug\ExcelAddIn1.Properties.Resources.resources
+C:\Users\admin\source\repos\ExcelAddIn1\obj\Debug\ExcelAddIn1.Ribbon1.resources
+C:\Users\admin\source\repos\ExcelAddIn1\obj\Debug\GenExcel.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ExcelAddIn1\obj\Debug\GenExcel.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ExcelAddIn1\obj\Debug\GenExcel.csproj.CopyComplete
+C:\Users\admin\source\repos\ExcelAddIn1\obj\Debug\ExcelAddIn1.dll
+C:\Users\admin\source\repos\ExcelAddIn1\obj\Debug\ExcelAddIn1.pdb
